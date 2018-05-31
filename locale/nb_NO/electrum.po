@@ -610,7 +610,7 @@ msgstr "Electrum kunne ikke produsere en transaksjonseksport."
 
 #: gui/qt/main_window.py:532
 msgid "Electrum's focus is speed, with low resource usage and simplifying Bitcoin. You do not need to perform regular backups, because your wallet can be recovered from a secret phrase that you can memorize or write on paper. Startup times are instant because it operates in conjunction with high-performance servers that handle the most complicated parts of the Bitcoin system.\n\n"
-msgstr "Electrum fokuserer på hastighet, lav ressursbruk og forenkling av Bitcoin. Du trenger ikke å ta regelmessige sikkerhetskopier, fordi din lommebok kan gjenopprettes fra en hemmelig frase som du kan lære deg utenat eller skrive ned på papir. Programmet starter opp umiddelbart fordi den bruker raske servere som håndterer de mest kompliserte delene av Bitcoin-systemet."
+msgstr "Electrum fokuserer på hastighet, lav ressursbruk og forenkling av Bitcoin. Du trenger ikke å ta regelmessige sikkerhetskopier, fordi din lommebok kan gjenopprettes fra en hemmelig frase som du kan lære deg utenat eller skrive ned på papir. Programmet starter opp umiddelbart fordi den bruker raske servere som håndterer de mest kompliserte delene av Bitcoin-systemet.\n\n"
 
 #: gui/qt/main_window.py:2003
 msgid "Encrypt"

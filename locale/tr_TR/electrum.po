@@ -610,7 +610,7 @@ msgstr "Electrum işlem dosyanızı dışa aktaramadı."
 
 #: gui/qt/main_window.py:532
 msgid "Electrum's focus is speed, with low resource usage and simplifying Bitcoin. You do not need to perform regular backups, because your wallet can be recovered from a secret phrase that you can memorize or write on paper. Startup times are instant because it operates in conjunction with high-performance servers that handle the most complicated parts of the Bitcoin system.\n\n"
-msgstr "Electrum'un odağı hızdır, ve az kaynak kullanarak Bitcoin'i basitleştirmektir. Düzenli yedekleme yapmanız gerekmez, çünkü cüzdanınız aklınızda tutabileceğiniz veya kağıda yazabileceğiniz bir gizli ifade ile geri getirilebilir. Anında açılır, çünkü Bitcoin'in en gelişmiş parçalarını işleyen yüksek hızlı sunucularla birlikte çalışır"
+msgstr "Electrum'un odağı hızdır, ve az kaynak kullanarak Bitcoin'i basitleştirmektir. Düzenli yedekleme yapmanız gerekmez, çünkü cüzdanınız aklınızda tutabileceğiniz veya kağıda yazabileceğiniz bir gizli ifade ile geri getirilebilir. Anında açılır, çünkü Bitcoin'in en gelişmiş parçalarını işleyen yüksek hızlı sunucularla birlikte çalışır\n\n"
 
 #: gui/qt/main_window.py:2003
 msgid "Encrypt"
@@ -1746,7 +1746,7 @@ msgstr "Bu Bitcoin'lerinizi harcamayacağınız anlamına gelmektedir."
 
 #: gui/qt/main_window.py:861
 msgid "This payment request will be signed."
-msgstr "Bu ödeme isteği imzalanacak.\n"
+msgstr "Bu ödeme isteği imzalanacak."
 ""
 
 #: gui/qt/seed_dialog.py:38
@@ -1819,7 +1819,7 @@ msgstr "yedekleme oluşturulamıyor"
 
 #: gui/qt/main_window.py:2161
 msgid "Unable to create csv"
-msgstr "Csv oluşturulamıyor\n"
+msgstr "Csv oluşturulamıyor"
 ""
 
 #: gui/qt/main_window.py:2231
